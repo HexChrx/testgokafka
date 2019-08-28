@@ -1,0 +1,4 @@
+app_name = "testgin"
+run_mode = "debug"
+http_listen = "0.0.0.0:8089"
+
