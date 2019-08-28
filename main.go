@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/chrx/testgokafka/routers"
+	"github.com/HexChrx/testgokafka/routers"
 )
 
 func main()  {
